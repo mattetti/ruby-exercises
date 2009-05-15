@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<rss version="2.0" xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+<channel>
+
+<title>Yahoo! Weather - Melbourne, AS</title>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/Melbourne__AS/*http://weather.yahoo.com/forecast/ASXX0075_f.html</link>
+<description>Yahoo! Weather for Melbourne, AS</description>
+<language>en-us</language>
+<lastBuildDate>Fri, 15 May 2009 9:00 am AEST</lastBuildDate>
+<ttl>60</ttl>
+<yweather:location city="Melbourne" region=""   country="AS"/>
+<yweather:units temperature="F" distance="mi" pressure="in" speed="mph"/>
+<yweather:wind chill="60"   direction="280"   speed="6" />
+<yweather:atmosphere humidity="67"  visibility="999"  pressure="29.69"  rising="0" />
+<yweather:astronomy sunrise="7:13 am"   sunset="5:19 pm"/>
+<image>
+<title>Yahoo! Weather</title>
+<width>142</width>
+<height>18</height>
+<link>http://weather.yahoo.com</link>
+<url>http://l.yimg.com/a/i/us/nws/th/main_142b.gif</url>
+</image>
+<item>
+<title>Conditions for Melbourne, AS at 9:00 am AEST</title>
+<geo:lat>-37.74</geo:lat>
+<geo:long>144.9</geo:long>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/Melbourne__AS/*http://weather.yahoo.com/forecast/ASXX0075_f.html</link>
+<pubDate>Fri, 15 May 2009 9:00 am AEST</pubDate>
+<yweather:condition  text="Mostly Cloudy"  code="28"  temp="60"  date="Fri, 15 May 2009 9:00 am AEST" />
+<description><![CDATA[
+<img src="http://l.yimg.com/a/i/us/we/52/28.gif"/><br />
+<b>Current Conditions:</b><br />
+Mostly Cloudy, 60 F<BR />
+<BR /><b>Forecast:</b><BR />
+Fri - PM Showers. High: 62 Low: 52<br />
+Sat - Cloudy. High: 57 Low: 51<br />
+<br />
+<a href="http://us.rd.yahoo.com/dailynews/rss/weather/Melbourne__AS/*http://weather.yahoo.com/forecast/ASXX0075_f.html">Full Forecast at Yahoo! Weather</a><BR/>
+(provided by The Weather Channel)<br/>
+]]></description>
+<yweather:forecast day="Fri" date="15 May 2009" low="52" high="62" text="PM Showers" code="39" />
+<yweather:forecast day="Sat" date="16 May 2009" low="51" high="57" text="Cloudy" code="26" />
+<guid isPermaLink="false">ASXX0075_2009_05_15_9_00_AEST</guid>
+</item>
+</channel>
+</rss><!-- api3.weather.ac4.yahoo.com compressed Thu May 14 18:45:28 PDT 2009 -->

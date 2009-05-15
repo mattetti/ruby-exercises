@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<rss version="2.0" xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+<channel>
+
+<title>Yahoo! Weather - San Diego, CA</title>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/San_Diego__CA/*http://weather.yahoo.com/forecast/USCA0982_f.html</link>
+<description>Yahoo! Weather for San Diego, CA</description>
+<language>en-us</language>
+<lastBuildDate>Thu, 14 May 2009 5:51 pm PDT</lastBuildDate>
+<ttl>60</ttl>
+<yweather:location city="San Diego" region="CA"   country="US"/>
+<yweather:units temperature="F" distance="mi" pressure="in" speed="mph"/>
+<yweather:wind chill="64"   direction="170"   speed="9" />
+<yweather:atmosphere humidity="73"  visibility="8"  pressure="29.88"  rising="0" />
+<yweather:astronomy sunrise="5:50 am"   sunset="7:40 pm"/>
+<image>
+<title>Yahoo! Weather</title>
+<width>142</width>
+<height>18</height>
+<link>http://weather.yahoo.com</link>
+<url>http://l.yimg.com/a/i/us/nws/th/main_142b.gif</url>
+</image>
+<item>
+<title>Conditions for San Diego, CA at 5:51 pm PDT</title>
+<geo:lat>32.73</geo:lat>
+<geo:long>-117.16</geo:long>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/San_Diego__CA/*http://weather.yahoo.com/forecast/USCA0982_f.html</link>
+<pubDate>Thu, 14 May 2009 5:51 pm PDT</pubDate>
+<yweather:condition  text="Partly Cloudy"  code="30"  temp="64"  date="Thu, 14 May 2009 5:51 pm PDT" />
+<description><![CDATA[
+<img src="http://l.yimg.com/a/i/us/we/52/30.gif"/><br />
+<b>Current Conditions:</b><br />
+Partly Cloudy, 64 F<BR />
+<BR /><b>Forecast:</b><BR />
+Thu - Partly Cloudy. High: 69 Low: 61<br />
+Fri - Partly Cloudy. High: 68 Low: 60<br />
+<br />
+<a href="http://us.rd.yahoo.com/dailynews/rss/weather/San_Diego__CA/*http://weather.yahoo.com/forecast/USCA0982_f.html">Full Forecast at Yahoo! Weather</a><BR/>
+(provided by The Weather Channel)<br/>
+]]></description>
+<yweather:forecast day="Thu" date="14 May 2009" low="61" high="69" text="Partly Cloudy" code="29" />
+<yweather:forecast day="Fri" date="15 May 2009" low="60" high="68" text="Partly Cloudy" code="30" />
+<guid isPermaLink="false">USCA0982_2009_05_14_17_51_PDT</guid>
+</item>
+</channel>
+</rss><!-- api3.weather.ac4.yahoo.com compressed/chunked Thu May 14 18:48:30 PDT 2009 -->
